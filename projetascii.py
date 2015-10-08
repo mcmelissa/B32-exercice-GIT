@@ -25,7 +25,24 @@ class projetASCIIART:
 	def ascii2(self):
 		pass
 	def ascii3(self):
-		pass
+		print("Projet de Sergio")
+		print("░░░░░░░░░")
+		print("░░░░▄▀▀▀▀▀█▀▄▄▄▄░░░░")
+		print("░░▄▀▒▓▒▓▓▒▓▒▒▓▒▓▀▄░░")
+		print("▄▀▒▒▓▒▓▒▒▓▒▓▒▓▓▒▒▓█░")
+		print("█▓▒▓▒▓▒▓▓▓░░░░░░▓▓█░")
+		print("█▓▓▓▓▓▒▓▒░░░░░░░░▓█░")
+		print("▓▓▓▓▓▒░░░░░░░░░░░░█░")
+		print("▓▓▓▓░░░░▄▄▄▄░░░▄█▄▀░")
+		print("░▀▄▓░░▒▀▓▓▒▒░░█▓▒▒░░")
+		print("▀▄░░░░░░░░░░░░▀▄▒▒█░")
+		print("░▀░▀░░░░░▒▒▀▄▄▒▀▒▒█░")
+		print("░░▀░░░░░░▒▄▄▒▄▄▄▒▒█░")
+		print("░░░▀▄▄▒▒░░░░▀▀▒▒▄▀░░")
+		print("░░░░░▀█▄▒▒░░░░▒▄▀░░░")
+		print("░░░░░░░░▀▀█▄▄▄▄▀")
+		print("")
+		self.clear()
 	def ascii4(self):
 		pass
 	def ascii5(self):
