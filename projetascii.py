@@ -24,7 +24,7 @@ class projetASCIIART:
 	def ascii1(self):
 		pass
 	def ascii2(self):
-		print ("Mon nom Francois et voici un chat")
+		print ("Mon nom est Francois... Voici un chat")
 		print ("     /\__/\           ")
 		print ("    /`    '\          ")
 		print ("  === 0  0 ===        ")
