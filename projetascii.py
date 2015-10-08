@@ -39,14 +39,46 @@ class projetASCIIART:
 		pass
 	def ascii8(self):
 		pass
+		print("        \/.--,	")
+		print("        //_.'	")
+		print("   .-""-/""-.	")
+		print("  /       __ \	")
+		print(" /        \\\ \	")
+		print(" |         || |	")
+		print(" \            /	")
+		print(" \  \         /	")
+		print("  \  '-      /	")
+		print("   '-.__.__.'	")
+		self.clear()
 	def ascii9(self):
 		pass
 	def ascii10(self):
+		print("          .--.")
+		print("        ,--  --,")
+		print("       /|\____/|\ ")
+		print("      / \__  __/ \ ")
+		print("     './ \    / \.' ")
+		print("          )  ( ")
+		print("         /    \ ")
+		print("        ;      ; ")
+		print("        |      | ")
+		print("        |      | ")
+		print("        |______| ")
+		print("My name William and I love dresses <3")
+		self.clear()
 		pass
 	def ascii11(self):
 		pass
 	def ascii12(self):
-		pass
+		print("Mon nom est Laurent")
+		print("Ne faites pas p*rnhub.com sur lynx.")
+		print("Antoine va vous niaiser pour le reste")
+		print("de la session si vous le faites.")
+		print("Mais ne volez pas mon idee d'image ascii")
+		print("pour les thumbnails, svp")
+		print("8=====D~~~")
+		print("Fin du projet de Laurent")
+		self.clear()
 	def ascii13(self):
 		pass
 	def ascii14(self):
