@@ -1,20 +1,22 @@
-#Votre méthode doit comprendre ceci :
+#Votre methode doit comprendre ceci :
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
-#self.clear() sert à vider lecran pour le prochain projet
-
+#self.clear() sert a vider lecran pour le prochain projet
 import os
 class projetASCIIART:
 	def __init__(self):
-		self.clear = lambda: os.system('cls')
+		var = "allo"
+	
+	def clear(self):
+		raw_input('NEXT')
+		os.system('clear')
 
 	def asciiprof(self):
-		print("Projet du prof")
-		print ("Mon nom est Antoine et voici le travail de mes étudiants")
+		print ("Mon nom est Antoine et voici le travail de mes etudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
-		print ( "   .--\\          /--. ")
+		print ( "   .--\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
