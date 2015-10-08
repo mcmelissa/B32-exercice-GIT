@@ -93,7 +93,8 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
-		Print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
+		pass
+		print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
 		print("        \/.--,	")
 		print("        //_.'	")
 		print("   .-""-/""-.	")
@@ -139,6 +140,16 @@ class projetASCIIART:
 		print("8=====D~~~")
 		print("Fin du projet de Laurent")
 		self.clear()
+	def ascii13(self):
+		pass
+	def ascii14(self):
+		print ("Projet du skinny_jr")	
+		print ("Mon nom est Kepler Norelia et voici mon travail")
+		print ("------------------------------------")
+		print ("oooooooooooooooooooooooooooooooooooo")
+		print ("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
+		print ("Je suis poche")
+		self.clear()
 	def ascii13(self): 
 		print("Projet de Evan")
 		print("")
@@ -163,6 +174,9 @@ class projetASCIIART:
 	def ascii15(self):
 		pass
 	def ascii16(self):
+		pass
+	def ascii17(self):
+		pass
                 print ("Mon nom est Mathieu et voici mon travail")
                 print ("  _")
 		print (" ( \\")		
@@ -195,8 +209,23 @@ class projetASCIIART:
 	def ascii22(self):
 		pass
 	def ascii23(self):
+		print("Matthias")		
+		print("")
+		print("     ##          ##")
+		print("       ##      ##")
+		print("     ##############")
+		print("   ####  ######  ####")
+		print(" ######################")
+		print(" ##  ##############  ##")
+		print(" ##  ##          ##  ##")	
+		print("       ####  ####")
+		print("")
+		print("Fin.")
+		self.clear()
+	def ascii24(self):
 		pass
 	def ascii24(self):
+		pass
 		print("Ronny")
 		print("______________________________________")
 		print("|                                    |")
@@ -212,7 +241,49 @@ class projetASCIIART:
 	def ascii25(self):
 		pass
 	def ascii26(self):
-		pass
+
+		print ( "                   ......               ")
+		print ( "                 NOOZZ$778..            ")
+		print ( "               .OOOOZ7I++?IN..          ")
+		print ( "              .O88OO$I+===?I7.          ")
+		print ( "              N8888OZ7?+==+I7M          ")
+		print ( "             .O8888OOZ7I?+?7$O.         ")
+		print ( "              O88D88OOZZ$$ZZZO.         ")
+		print ( "              O88DDD88OOOOOOOZ.         ")
+		print ( "              .O88DDDDD888OOO.          ")
+		print ( "               .8O88DDD888O$,.          ")
+		print ( "                 .NZO88OON..            ")
+		print ( "                   .O                   ")
+		print ( "                .=M7IMM .               ")
+		print ( "            ..ZM.   M    MM             ")
+		print ( "           M7.    .., ..  .MM,.         ")
+		print ( "        :.?.  ..,,,,,,,,..,DMO.         ")
+		print ( "       .=O~+M,,,,,,,,,,,.   .M8O        ")
+		print ( "     .N7?O=,,,,,,,,,,,,,,.....MOM       ")
+		print ( "     M$7=MD,,,,,,,,,,,,,,,,,,,,DM       ")
+		print ( "    .NZ7?M8:,,,,,,,,MZOZ$7IIO.DMN       ")
+		print ( "    .$Z7IOD:,,+,,,,OOOOZ$I??I7,,,       ")
+		print ( "     NMM8DM:,,,,,.O888OOOZ$$$Z.,,       ")
+		print ( "      MNNM=~,,,,,,88888888OOOO,,,.      ")
+		print ( "        .++~:,,,,,:M88888888N.,,,.      ")
+		print ( "         M++~:,,,,,:~~~~~~:,,,,,,.      ")
+		print ( "         .+++=~,,,MM,,,,,,,,,,,,.       ")
+		print ( "           M++++=M=:M,,,,,,,,$=.        ")
+		print ( "            .D+?++~,:~~:,,,,M=:M        ")
+		print ( "          .M$ZN O=:,.:::,,,,=~..        ")
+		print ( "       . 7$8OZM8+=,,,,,,,,,,,,M         ")
+		print ( "        .M8D78NM+=,,,,,,,,,,,.          ")
+		print ( "          .,...=+~,,,,,,,,,,,,.         ")
+		print ( "               ?+~,,,,,,,,,,,,=         ")
+		print ( "               ?I:,.,,,,,,,,,,M,,.      ")
+		print ( "               M~,,..~,,,,,,,,,,,.      ")
+		print ( "            . .+~,,,..,,,,,,,,,,,.      ")
+		print ( "              .+=:,,,,.,,,,,,~:,,.....  ")
+		print ( "       .      .++=::::~~~:~=+?+=,~   .  ")
+		print ( "       .,~+I7$$8++++++=+++OO88OZZ$$7+~. ")
+		print ( "       ..,:=+++????++++++++++++++==~:.  ")
+		print ( "                   .................    ")
+		
 	def ascii27(self):
 		pass
 	def ascii28(self):
@@ -221,7 +292,6 @@ class projetASCIIART:
 		pass
 	def ascii30(self):
 		pass
-
 if __name__ == "__main__":
 	p = projetASCIIART()
 	p.asciiprof()
