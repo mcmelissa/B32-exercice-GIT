@@ -55,8 +55,24 @@ class projetASCIIART:
 		#haahah
 		pass
 	def ascii10(self):
+<<<<<<< HEAD
+		print("          .--.")
+		print("        ,--  --,")
+		print("       /|\____/|\ ")
+		print("      / \__  __/ \ ")
+		print("     './ \    / \.' ")
+		print("          )  ( ")
+		print("         /    \ ")
+		print("        ;      ; ")
+		print("        |      | ")
+		print("        |      | ")
+		print("        |______| ")
+		print("My name William and I love dresses <3")
+		self.clear()
+=======
 		#hahahah
 		pass
+>>>>>>> 47cfbf180f023217885405c5e6618fba4705b5a5
 	def ascii11(self):
 		#haahah
 		pass
