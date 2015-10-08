@@ -10,7 +10,7 @@ class projetASCIIART:
 		self.clear = lambda: os.system('cls')
 
 	def asciiprof(self):
-		input("Projet du prof")
+		print("Projet du prof")
 		print ("Mon nom est Antoine et voici le travail de mes étudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
@@ -18,7 +18,7 @@ class projetASCIIART:
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
-		input("Fin du projet du prof")
+		print("Fin du projet du prof")
 		self.clear()
 	def ascii1(self):
 		pass
@@ -53,7 +53,16 @@ class projetASCIIART:
 	def ascii16(self):
 		pass
 	def ascii17(self):
-		pass
+		print("Projet de Thomas")
+		print("Mon nom est Thomas, voici mon super beau Ascii")
+		print("            / \           ")
+		print("          /_____\         ")
+		print("        / \     / \       ")
+		print("      /_____\ /_____\     ")
+		print("                          ")
+		print("BY THE POWER OF THE TRIFORCE!")
+		print("Fin")
+		self.clear()
 	def ascii18(self):
 		pass
 	def ascii19(self):
