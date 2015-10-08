@@ -18,7 +18,7 @@ class projetASCIIART:
 		print ("Mon nom est Antoine et voici le travail de mes etudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
-		print ( "   .--\          /--. ")
+		print ( "   .--\\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
@@ -57,6 +57,7 @@ class projetASCIIART:
 		print ("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
 		print ("Je suis poche")
 		self.clear()
+		pass
 	def ascii15(self):
 		pass
 	def ascii16(self):
