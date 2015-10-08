@@ -59,7 +59,11 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
+<<<<<<< HEAD
+		Print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
+=======
 		pass
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		print("        \/.--,	")
 		print("        //_.'	")
 		print("   .-""-/""-.	")
