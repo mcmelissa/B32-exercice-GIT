@@ -1,4 +1,4 @@
-#Votre méthode doit comprendre ceci :
+#Votre methode doit comprendre ceci :
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
@@ -11,7 +11,7 @@ class projetASCIIART:
 
 	def asciiprof(self):
 		input("Projet du prof")
-		print ("Mon nom est Antoine et voici le travail de mes étudiants")
+		print ("Mon nom est Antoine et voici le travail de mes etudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
 		print ( "   .--\\          /--. ")
@@ -27,7 +27,44 @@ class projetASCIIART:
 	def ascii3(self):
 		pass
 	def ascii4(self):
-		pass
+		print ("Flavio")
+		print("Je sais pas quoi mettre HA HA HA")
+		print("............HIIMHIMHMMHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:.............")
+		print("...........MMMI:MII:MIHMHMMMMMHMMMMIMMMIMMMMMMMMMMMMMM.............")
+		print(".........:MMMI:M::HM::MIHHHM:IM:MHM:IMH:IMMMIIMMMHMMMH:............")
+		print("........:MMMHHM::MMI:HH:MM:I:M:MMMH:IMH:IMM::MH:MM:MM:M............")
+		print(".......MMMMHMM:MMIMHMII:MM:IIIM:MHMIMMM:MMIIH::MH:HM:M............")
+		print("...... :MIMMMMMMMMMHMMHMM:HHMHMMMMIMHMMMMHMHMIHIHM::MMI............")
+		print(".......M:MMMMMMMMMMMMHMMMMMMMMHMMMMMMMMMMHMMMHMMIMHMMMM:...........")
+		print(".......HHMMMMMMMMMMMMMMMMIMMMM.MMHMMMMHMMMMMMMMMMMIMHMMI...........")
+		print("........MMMIMMMMMMMMMMIHMIMIM:.M:HMM:MIHMMMMMMMMMMMMMMMI...........")
+		print("........MM.MMMMMMMMMMMH:MMMHM:.M.:MM.M.HMMMHMMMMMMMMMMMI...........")
+		print("........MM.MMMMMMMMMMH::M.M.M..M..MM:M.IIMH:MMMMMMMMMMMI...........")
+		print("........M:.MM:MMMMMMM:.I..:.I..H..IM:I.I.M.IMHMMMMMMMMMI...........")
+		print("........M..MMMHMMMMM.:HI:HHH......H....II..:MMMMMMMHMM:...........")
+		print("...........MM.MIMMMM.:H: .::I........ ...:IH:.MMMMMM:MMI...........")
+		print("...........:H..MMMIM.M.:...:I.........: ..::HHHMMMMIMMMH...........")
+		print("............H..IMM:I:..I:..:..........I:..:I:::MMMMMMMMM...........")
+		print("...............MMH::I...I:::..........III.I::MMMHMMMMMMM...........")
+		print("..............MMMHMII.. ..............:MI:I.HIIIHM:HMMMM...........")
+		print(".............:MMMMIM::...........:......:H..:II:MHIMMMMM...........")
+		print(".............MMMMMMMMM......................I.MMMHHMMMMM:..........")
+		print("............MMMMH:MMMMM........:.:.........:MMMMMMMMMMMMI..........")
+		print("...........MMMMMMHMMMMMMM.. .............:MMMMMMMMMMMMMMM..........")
+		print("........ .IMMMMMMMMMMMMMMMM............:MMMMMMMMMHMMMMMMM..........")
+		print("..........MMMMMMMMMMMMMMMMMI:.......:IHMMMMMMMMM::MMMMMMM..........")
+		print(".........MMMMMMMIMMMMMMMMMMH:::I:I:.::HMMMMMMMMMHMMMMMMMMI.........")
+		print("........HMMMMMMM:MMMMMMMMMMI:::::::..:HMMMMMMMMIMMMMMMMMMM.........")
+		print(".......IMMMMM..MI:MMMMMMMMM::::..:::::.MMMMMMMMMMMMMMMMMMM ........")
+		print("......:MMMM....:MMHMMMMMM:::::.....::.:.MMMMMMMHMMMMMMMMMM.........")
+		print("......MMI....:::IMMMMI:.:::::.....:I::::::HMMMHIM::::::MMMH........")
+		print(".....MM.....:::IMIMMM:.......:....::::::::IMMHMM:I:::I:::MM .......")
+		print("....MMM.....:I:.MIHMMM........:...:::::::HMMMMI:::::....::M:.......")
+		print("...:MM:........:MMMHMM..................IMMMMM::...........M.......")
+		print("...MMM........:::MMMMM......:..........:HMMMMM::...................")
+		print("..:MM:.......:::::MMMM........... .. .::MMM:HM::.............:.....")
+		print("..MMM........:::::MMMMM:I..HHIMHMHHHM :IMMHIMH::.............I.....")
+		self.clear()
 	def ascii5(self):
 		pass
 	def ascii6(self):
