@@ -16,70 +16,98 @@ class projetASCIIART:
 		print ("Mon nom est Antoine et voici le travail de mes etudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
-		print ( "   .--\          /--. ")
+		print ( "   .--\\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
 		self.clear()
 	def ascii1(self):
+		#hahaha
 		pass
 	def ascii2(self):
+		#hahaha
 		pass
 	def ascii3(self):
+		#ahahahah
 		pass
 	def ascii4(self):
+		#haahah
 		pass
 	def ascii5(self):
+		#hahahah
 		pass
 	def ascii6(self):
+		#haahaha
 		pass
 	def ascii7(self):
 		pass
 	def ascii8(self):
+		#hahaah
 		pass
 	def ascii9(self):
+		#haahah
 		pass
 	def ascii10(self):
+		#hahahah
 		pass
 	def ascii11(self):
+		#haahah
 		pass
 	def ascii12(self):
 		pass
 	def ascii13(self):
+		#ahahah
 		pass
 	def ascii14(self):
+		#hahaha
 		pass
 	def ascii15(self):
+		#ahhahaha
 		pass
 	def ascii16(self):
+		#ahahaha
 		pass
 	def ascii17(self):
+		#hahaha
 		pass
 	def ascii18(self):
+		#hahaha
 		pass
 	def ascii19(self):
+		#ahhahah
 		pass
 	def ascii20(self):
+#haaha
 		pass
 	def ascii21(self):
+#ahaaha
 		pass
 	def ascii22(self):
+#aahah
 		pass
 	def ascii23(self):
+#aahaaha
 		pass
 	def ascii24(self):
+#hahaah
 		pass
 	def ascii25(self):
+#ahaah
 		pass
 	def ascii26(self):
+#ahaha
 		pass
 	def ascii27(self):
+#hahaha
 		pass
 	def ascii28(self):
+#ahahah
 		pass
 	def ascii29(self):
+#ahahah
 		pass
 	def ascii30(self):
+#ahha
 		pass
 if __name__ == "__main__":
 	p = projetASCIIART()
