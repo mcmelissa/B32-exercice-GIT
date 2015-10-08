@@ -20,6 +20,7 @@ class projetASCIIART:
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
+		print("Fin du projet du prof")
 		self.clear()
 	def ascii1(self):
 		pass
@@ -27,6 +28,28 @@ class projetASCIIART:
 		pass
 	def ascii3(self):
 		pass
+		print ("Mon nom est Francois... Voici un chat")
+		print ("     /\__/\           ")
+		print ("    /`    '\          ")
+		print ("  === 0  0 ===        ")
+		print ("    \  --  /          ")
+		print ("   /        \         ")
+		print ("  /          \        ")
+		print (" |            |       ")
+		print ("  \  ||  ||  /        ")
+		print ("   \_oo__oo_/#######o ")
+		self.clear()
+		pass
+	def ascii3(self):
+		print("asdasdasdasd")
+		print("Bacon ipsum dolor amet ham shankle pancetta strip steak shank brisket ")
+		print("bacon leberkas turducken. Porchetta hamburger bresaola tongue, pork loin ")
+		print("shankle leberkas ground round jowl prosciutto beef ribs brisket ham. ")
+		print("Kielbasa meatloaf kevin jowl leberkas. Jowl cupim chuck, chicken tenderloin ")
+		print("bacon shoulder swine meatball filet mignon ribeye pork belly sirloin. ")
+		print("")
+		print("")
+		self.clear()
 	def ascii4(self):
 		pass
 	def ascii5(self):
@@ -37,6 +60,17 @@ class projetASCIIART:
 		pass
 	def ascii8(self):
 		pass
+		print("        \/.--,	")
+		print("        //_.'	")
+		print("   .-""-/""-.	")
+		print("  /       __ \	")
+		print(" /        \\\ \	")
+		print(" |         || |	")
+		print(" \            /	")
+		print(" \  \         /	")
+		print("  \  '-      /	")
+		print("   '-.__.__.'	")
+		self.clear()
 	def ascii9(self):
 		pass
 	def ascii10(self):
@@ -74,7 +108,16 @@ class projetASCIIART:
 	def ascii16(self):
 		pass
 	def ascii17(self):
-		pass
+		print("Projet de Thomas")
+		print("Mon nom est Thomas, voici mon super beau Ascii")
+		print("            / \           ")
+		print("          /_____\         ")
+		print("        / \     / \       ")
+		print("      /_____\ /_____\     ")
+		print("                          ")
+		print("BY THE POWER OF THE TRIFORCE!")
+		self.clear()
+		#hahaha
 	def ascii18(self):
 		pass
 	def ascii19(self):
