@@ -40,9 +40,6 @@ class projetASCIIART:
 	def ascii9(self):
 		pass
 	def ascii10(self):
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 		print("          .--.")
 		print("        ,--  --,")
 		print("       /|\____/|\ ")
@@ -56,11 +53,6 @@ class projetASCIIART:
 		print("        |______| ")
 		print("My name William and I love dresses <3")
 		self.clear()
-=======
-		#hahahah
->>>>>>> 245a9247f2c9465875d43bd4435d147c7205cfbb
-		pass
->>>>>>> 47cfbf180f023217885405c5e6618fba4705b5a5
 	def ascii11(self):
 		pass
 	def ascii12(self):
