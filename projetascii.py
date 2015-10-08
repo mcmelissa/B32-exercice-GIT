@@ -25,7 +25,17 @@ class projetASCIIART:
 		#hahaha
 		pass
 	def ascii2(self):
-		#hahaha
+		print ("Mon nom est Francois... Voici un chat")
+		print ("     /\__/\           ")
+		print ("    /`    '\          ")
+		print ("  === 0  0 ===        ")
+		print ("    \  --  /          ")
+		print ("   /        \         ")
+		print ("  /          \        ")
+		print (" |            |       ")
+		print ("  \  ||  ||  /        ")
+		print ("   \_oo__oo_/#######o ")
+		self.clear()
 		pass
 	def ascii3(self):
 		print("asdasdasdasd")
@@ -82,6 +92,10 @@ class projetASCIIART:
 		print("        |______| ")
 		print("My name William and I love dresses <3")
 		self.clear()
+<<<<<<< HEAD
+=======
+		pass
+>>>>>>> 211e005b29f4b11426ee40d26d53cafb39b60ee7
 	def ascii11(self):
 		#haahah
 		pass
