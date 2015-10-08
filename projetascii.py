@@ -47,7 +47,7 @@ class projetASCIIART:
 		print("Mon nom est Laurent")
 		print("Ne faites pas p*rnhub.com sur lynx.")
 		print("Antoine va vous niaiser pour le reste")
-		print("de la session si vous le faîtes.")
+		print("de la session si vous le faites.")
 		print("Mais ne volez pas mon idée d'image ascii")
 		print("pour les thumbnails, svp")
 		print("8=====D~~~")
