@@ -117,7 +117,6 @@ class projetASCIIART:
 		print("                          ")
 		print("BY THE POWER OF THE TRIFORCE!")
 		self.clear()
-		#hahaha
 	def ascii18(self):
 		pass
 	def ascii19(self):
