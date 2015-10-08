@@ -57,13 +57,37 @@ class projetASCIIART:
 		#haahah
 		pass
 	def ascii10(self):
+<<<<<<< HEAD
+		print("          .--.")
+		print("        ,--  --,")
+		print("       /|\____/|\ ")
+		print("      / \__  __/ \ ")
+		print("     './ \    / \.' ")
+		print("          )  ( ")
+		print("         /    \ ")
+		print("        ;      ; ")
+		print("        |      | ")
+		print("        |      | ")
+		print("        |______| ")
+		print("My name William and I love dresses <3")
+		self.clear()
+=======
 		#hahahah
 		pass
+>>>>>>> 47cfbf180f023217885405c5e6618fba4705b5a5
 	def ascii11(self):
 		#haahah
 		pass
 	def ascii12(self):
-		pass
+		print("Mon nom est Laurent")
+		print("Ne faites pas p*rnhub.com sur lynx.")
+		print("Antoine va vous niaiser pour le reste")
+		print("de la session si vous le faites.")
+		print("Mais ne volez pas mon idee d'image ascii")
+		print("pour les thumbnails, svp")
+		print("8=====D~~~")
+		print("Fin du projet de Laurent")
+		self.clear()
 	def ascii13(self):
 		#ahahah
 		pass
