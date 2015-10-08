@@ -16,7 +16,7 @@ class projetASCIIART:
 		print ("Mon nom est Antoine et voici le travail de mes etudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
-		print ( "   .--\          /--. ")
+		print ( "   .--\\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
