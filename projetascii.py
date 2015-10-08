@@ -60,6 +60,7 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
+		Print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
 		print("        \/.--,	")
 		print("        //_.'	")
 		print("   .-""-/""-.	")
