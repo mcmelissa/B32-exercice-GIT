@@ -1,4 +1,4 @@
-#Votre méthode doit comprendre ceci :
+Votre méthode doit comprendre ceci :
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
@@ -10,7 +10,7 @@ class projetASCIIART:
 		self.clear = lambda: os.system('cls')
 
 	def asciiprof(self):
-		input("Projet du prof")
+		print("Projet du prof")
 		print ("Mon nom est Antoine et voici le travail de mes étudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
@@ -47,7 +47,13 @@ class projetASCIIART:
 	def ascii13(self):
 		pass
 	def ascii14(self):
-		pass
+		print ("Projet du skinny_jr")	
+		print ("Mon nom est Kepler Norelia et voici mon travail")
+		print ("------------------------------------")
+		print ("oooooooooooooooooooooooooooooooooooo")
+		print ("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
+		print ("Je suis poche")
+		self.clear()
 	def ascii15(self):
 		pass
 	def ascii16(self):
