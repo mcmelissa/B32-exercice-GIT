@@ -39,7 +39,7 @@ class projetASCIIART:
 		self.clear()
 		pass
 	def ascii3(self):
-		print("asdasdasdasd")
+		print("My Name is Sergio. Meat is Good")
 		print("Bacon ipsum dolor amet ham shankle pancetta strip steak shank brisket ")
 		print("bacon leberkas turducken. Porchetta hamburger bresaola tongue, pork loin ")
 		print("shankle leberkas ground round jowl prosciutto beef ribs brisket ham. ")
@@ -126,7 +126,6 @@ class projetASCIIART:
 		self.clear()
 		#hahaha
 		pass
->>>>>>> ab42f022e8beb699403a60f59ea9542830cfcdab
 	def ascii18(self):
 		#hahaha
 		pass
