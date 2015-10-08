@@ -37,7 +37,13 @@ class projetASCIIART:
 	def ascii8(self):
 		pass
 	def ascii9(self):
-		pass
+		print("    ("`-''-/").___..--''"`-._")
+		print("     `6_ 6  )   `-.  (     ).`-.__.`)")
+		print("     (_Y_.)'  ._   )  `._ `. ``-..-'")
+		print("   _..`--'_..-_/  /--'_.' ,'")
+		print("  (il),-''  (li),'  ((!.-'")
+		print("Le lion est une créature amgnifique")
+		self.clear()
 	def ascii10(self):
 		pass
 	def ascii11(self):
