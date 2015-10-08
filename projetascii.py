@@ -26,7 +26,15 @@ class projetASCIIART:
 	def ascii2(self):
 		pass
 	def ascii3(self):
-		pass
+		print("asdasdasdasd")
+		print("Bacon ipsum dolor amet ham shankle pancetta strip steak shank brisket ")
+		print("bacon leberkas turducken. Porchetta hamburger bresaola tongue, pork loin ")
+		print("shankle leberkas ground round jowl prosciutto beef ribs brisket ham. ")
+		print("Kielbasa meatloaf kevin jowl leberkas. Jowl cupim chuck, chicken tenderloin ")
+		print("bacon shoulder swine meatball filet mignon ribeye pork belly sirloin. ")
+		print("")
+		print("")
+		self.clear()
 	def ascii4(self):
 		pass
 	def ascii5(self):
@@ -36,11 +44,33 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
-		pass
+		print("        \/.--,	")
+		print("        //_.'	")
+		print("   .-""-/""-.	")
+		print("  /       __ \	")
+		print(" /        \\\ \	")
+		print(" |         || |	")
+		print(" \            /	")
+		print(" \  \         /	")
+		print("  \  '-      /	")
+		print("   '-.__.__.'	")
+		self.clear()
 	def ascii9(self):
 		pass
 	def ascii10(self):
-		pass
+		print("          .--.")
+		print("        ,--  --,")
+		print("       /|\____/|\ ")
+		print("      / \__  __/ \ ")
+		print("     './ \    / \.' ")
+		print("          )  ( ")
+		print("         /    \ ")
+		print("        ;      ; ")
+		print("        |      | ")
+		print("        |      | ")
+		print("        |______| ")
+		print("My name William and I love dresses <3")
+		self.clear()
 	def ascii11(self):
 		pass
 	def ascii12(self):
