@@ -209,7 +209,49 @@ class projetASCIIART:
 	def ascii25(self):
 		pass
 	def ascii26(self):
-		pass
+
+		print ( "                   ......               ")
+		print ( "                 NOOZZ$778..            ")
+		print ( "               .OOOOZ7I++?IN..          ")
+		print ( "              .O88OO$I+===?I7.          ")
+		print ( "              N8888OZ7?+==+I7M          ")
+		print ( "             .O8888OOZ7I?+?7$O.         ")
+		print ( "              O88D88OOZZ$$ZZZO.         ")
+		print ( "              O88DDD88OOOOOOOZ.         ")
+		print ( "              .O88DDDDD888OOO.          ")
+		print ( "               .8O88DDD888O$,.          ")
+		print ( "                 .NZO88OON..            ")
+		print ( "                   .O                   ")
+		print ( "                .=M7IMM .               ")
+		print ( "            ..ZM.   M    MM             ")
+		print ( "           M7.    .., ..  .MM,.         ")
+		print ( "        :.?.  ..,,,,,,,,..,DMO.         ")
+		print ( "       .=O~+M,,,,,,,,,,,.   .M8O        ")
+		print ( "     .N7?O=,,,,,,,,,,,,,,.....MOM       ")
+		print ( "     M$7=MD,,,,,,,,,,,,,,,,,,,,DM       ")
+		print ( "    .NZ7?M8:,,,,,,,,MZOZ$7IIO.DMN       ")
+		print ( "    .$Z7IOD:,,+,,,,OOOOZ$I??I7,,,       ")
+		print ( "     NMM8DM:,,,,,.O888OOOZ$$$Z.,,       ")
+		print ( "      MNNM=~,,,,,,88888888OOOO,,,.      ")
+		print ( "        .++~:,,,,,:M88888888N.,,,.      ")
+		print ( "         M++~:,,,,,:~~~~~~:,,,,,,.      ")
+		print ( "         .+++=~,,,MM,,,,,,,,,,,,.       ")
+		print ( "           M++++=M=:M,,,,,,,,$=.        ")
+		print ( "            .D+?++~,:~~:,,,,M=:M        ")
+		print ( "          .M$ZN O=:,.:::,,,,=~..        ")
+		print ( "       . 7$8OZM8+=,,,,,,,,,,,,M         ")
+		print ( "        .M8D78NM+=,,,,,,,,,,,.          ")
+		print ( "          .,...=+~,,,,,,,,,,,,.         ")
+		print ( "               ?+~,,,,,,,,,,,,=         ")
+		print ( "               ?I:,.,,,,,,,,,,M,,.      ")
+		print ( "               M~,,..~,,,,,,,,,,,.      ")
+		print ( "            . .+~,,,..,,,,,,,,,,,.      ")
+		print ( "              .+=:,,,,.,,,,,,~:,,.....  ")
+		print ( "       .      .++=::::~~~:~=+?+=,~   .  ")
+		print ( "       .,~+I7$$8++++++=+++OO88OZZ$$7+~. ")
+		print ( "       ..,:=+++????++++++++++++++==~:.  ")
+		print ( "                   .................    ")
+		
 	def ascii27(self):
 		pass
 	def ascii28(self):
