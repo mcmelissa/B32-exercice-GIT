@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+# -*-coding:Latin-1 -*
+#Votre méthode doit comprendre ceci :
+=======
 #Votre methode doit comprendre ceci :
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
@@ -13,14 +18,21 @@ class projetASCIIART:
 		os.system('clear')
 
 	def asciiprof(self):
+<<<<<<< HEAD
+		print ("Mon nom est Antoine et voici le travail de mes étudiants")
+=======
 		print ("Mon nom est Antoine et voici le travail de mes etudiants")
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
 		print ( "   .--\\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
+<<<<<<< HEAD
+=======
 		print("Fin du projet du prof")
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		self.clear()
 	def ascii1(self):
 		pass
@@ -140,6 +152,19 @@ class projetASCIIART:
 	def ascii15(self):
 		pass
 	def ascii16(self):
+                print ("Mon nom est Mathieu et voici mon travail")
+                print ("  _")
+		print (" ( \\")		
+		print ("  ) )")
+		print (" ( (  .-''''-.  A.-.A")
+		print ("  \ \\/        \\/ , , \\")
+		print ("   \\  \\       =;  t  /=")
+		print ("    \\  |''''.   ' --'")
+		print ("    / //    | ||")
+		print ("   /_,))    |_,))")
+
+                self.clear()
+
 		pass
 	def ascii17(self):
 		print("Projet de Thomas")
