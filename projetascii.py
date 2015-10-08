@@ -43,7 +43,15 @@ class projetASCIIART:
 	def ascii11(self):
 		pass
 	def ascii12(self):
-		pass
+		print("Mon nom est Laurent")
+		print("Ne faites pas p*rnhub.com sur lynx.")
+		print("Antoine va vous niaiser pour le reste")
+		print("de la session si vous le faîtes.")
+		print("Mais ne volez pas mon idée d'image ascii")
+		print("pour les thumbnails, svp")
+		print("8=====D~~~")
+		print("Fin du projet de Laurent")
+		self.clear()
 	def ascii13(self):
 		pass
 	def ascii14(self):
