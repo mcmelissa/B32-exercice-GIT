@@ -49,8 +49,17 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
-		#hahaah
-		pass
+		print("        \/.--,	")
+		print("        //_.'	")
+		print("   .-""-/""-.	")
+		print("  /       __ \	")
+		print(" /        \\\ \	")
+		print(" |         || |	")
+		print(" \            /	")
+		print(" \  \         /	")
+		print("  \  '-      /	")
+		print("   '-.__.__.'	")
+		self.clear()
 	def ascii9(self):
 		#haahah
 		pass
