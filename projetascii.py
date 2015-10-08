@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-
 #Votre methode doit comprendre ceci
-=======
-<<<<<<< HEAD
 # -*-coding:Latin-1 -*
-#Votre méthode doit comprendre ceci :
-=======
 #Votre methode doit comprendre ceci :
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
->>>>>>> 5cc749ba8c4ffcb14ff2aad35fd65efa55c5389a
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
