@@ -23,7 +23,17 @@ class projetASCIIART:
 	def ascii1(self):
 		pass
 	def ascii2(self):
-		pass
+		print ("Mon nom Francois et voici un chat")
+		print ("     /\__/\           ")
+		print ("    /`    '\          ")
+		print ("  === 0  0 ===        ")
+		print ("    \  --  /          ")
+		print ("   /        \         ")
+		print ("  /          \        ")
+		print (" |            |       ")
+		print ("  \  ||  ||  /        ")
+		print ("   \_oo__oo_/#######o ")
+		self.clear()
 	def ascii3(self):
 		pass
 	def ascii4(self):
