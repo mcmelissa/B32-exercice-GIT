@@ -45,7 +45,25 @@ class projetASCIIART:
 	def ascii12(self):
 		pass
 	def ascii13(self):
-		pass
+		print("Projet de Evan")
+		print("")
+		print("                     .---.")
+		print("                    .'  .-.'._")
+		print("                  _/   (  0 / ',")
+		print("               .-' \   (   /--./")
+		print("             .'.  ' |'.__.'--'")
+		print("            / '-/_, |'  |")
+		print("           / /_.   ;    ;")
+		print("          /_.' , '/    / ")
+		print("  ________/_`-'_-' _.-'_______")
+		print("  ______________///_///_______")
+		print("        |_/,/ .|``` ```")
+		print("        / \_/-/")
+		print("        |`| ; |")
+		print("        \/' \ /")
+		print("         |'.|`")
+		print("          \_/")
+		self.clear()
 	def ascii14(self):
 		pass
 	def ascii15(self):
