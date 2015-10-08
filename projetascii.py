@@ -1,3 +1,4 @@
+# -*-coding:Latin-1 -*
 #Votre méthode doit comprendre ceci :
 #input("votre nom")
 #votre code
@@ -10,7 +11,6 @@ class projetASCIIART:
 		self.clear = lambda: os.system('cls')
 
 	def asciiprof(self):
-		input("Projet du prof")
 		print ("Mon nom est Antoine et voici le travail de mes étudiants")
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
@@ -18,7 +18,6 @@ class projetASCIIART:
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
-		input("Fin du projet du prof")
 		self.clear()
 	def ascii1(self):
 		pass
@@ -51,6 +50,19 @@ class projetASCIIART:
 	def ascii15(self):
 		pass
 	def ascii16(self):
+                print ("Mon nom est Mathieu et voici mon travail")
+                print ("  _")
+		print (" ( \\")		
+		print ("  ) )")
+		print (" ( (  .-''''-.  A.-.A")
+		print ("  \ \\/        \\/ , , \\")
+		print ("   \\  \\       =;  t  /=")
+		print ("    \\  |''''.   ' --'")
+		print ("    / //    | ||")
+		print ("   /_,))    |_,))")
+
+                self.clear()
+
 		pass
 	def ascii17(self):
 		pass
