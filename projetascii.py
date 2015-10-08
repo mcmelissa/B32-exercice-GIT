@@ -63,7 +63,6 @@ class projetASCIIART:
 		print("      /_____\ /_____\     ")
 		print("                          ")
 		print("BY THE POWER OF THE TRIFORCE!")
-		print("Fin")
 		self.clear()
 	def ascii18(self):
 		pass
