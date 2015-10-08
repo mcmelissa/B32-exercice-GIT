@@ -72,7 +72,17 @@ class projetASCIIART:
 		print("   '-.__.__.'	")
 		self.clear()
 	def ascii9(self):
+<<<<<<< HEAD
+		print("    (\"`-''-/\").___..--''\"`-._")
+		print("     `6_ 6  )   `-.  (     ).`-.__.`)")
+		print("     (_Y_.)'  ._   )  `._ `. ``-..-'")
+		print("   _..`--'_..-_/  /--'_.' ,'")
+		print("  (il),-''  (li),'  ((!.-'")
+		print("Le lion est une creature amgnifique")
+		self.clear()
+=======
 		pass
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii10(self):
 		print("          .--.")
 		print("        ,--  --,")
@@ -87,6 +97,13 @@ class projetASCIIART:
 		print("        |______| ")
 		print("My name William and I love dresses <3")
 		self.clear()
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		pass
+>>>>>>> 211e005b29f4b11426ee40d26d53cafb39b60ee7
+=======
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii11(self):
 		pass
 	def ascii12(self):
@@ -99,8 +116,25 @@ class projetASCIIART:
 		print("8=====D~~~")
 		print("Fin du projet de Laurent")
 		self.clear()
-	def ascii13(self):
-		pass
+	def ascii13(self): 
+		print("Projet de Evan")
+		print("")
+		print("                     .---.")
+		print("                    .'  .-.'._")
+		print("                  _/   (  0 / ',")
+		print("               .-' \   (   /--./")
+		print("             .'.  ' |'.__.'--'")
+		print("            / '-/_, |'  |")
+		print("           / /_.   ;    ;")
+		print("          /_.' , '/    / ")
+		print("  ________/_`-'_-' _.-'_______")
+		print("  ______________///_///_______")
+		print("        |_/,/ .|``` ```")
+		print("        / \_/-/")
+		print("        |`| ; |")
+		print("        \/' \ /")
+		print("         |'.|`")
+		print("          \_/")
 	def ascii14(self):
 		pass
 	def ascii15(self):
@@ -154,6 +188,7 @@ class projetASCIIART:
 		pass
 	def ascii30(self):
 		pass
+
 if __name__ == "__main__":
 	p = projetASCIIART()
 	p.asciiprof()
