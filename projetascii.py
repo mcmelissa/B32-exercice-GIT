@@ -20,11 +20,14 @@ class projetASCIIART:
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
+		print("Fin du projet du prof")
 		self.clear()
 	def ascii1(self):
-		#hahaha
 		pass
 	def ascii2(self):
+		pass
+	def ascii3(self):
+		pass
 		print ("Mon nom est Francois... Voici un chat")
 		print ("     /\__/\           ")
 		print ("    /`    '\          ")
@@ -38,7 +41,7 @@ class projetASCIIART:
 		self.clear()
 		pass
 	def ascii3(self):
-		print("asdasdasdasd")
+		print("My Name is Sergio. Meat is Good")
 		print("Bacon ipsum dolor amet ham shankle pancetta strip steak shank brisket ")
 		print("bacon leberkas turducken. Porchetta hamburger bresaola tongue, pork loin ")
 		print("shankle leberkas ground round jowl prosciutto beef ribs brisket ham. ")
@@ -48,17 +51,15 @@ class projetASCIIART:
 		print("")
 		self.clear()
 	def ascii4(self):
-		#haahah
 		pass
 	def ascii5(self):
-		#hahahah
 		pass
 	def ascii6(self):
-		#haahaha
 		pass
 	def ascii7(self):
 		pass
 	def ascii8(self):
+		pass
 		print("        \/.--,	")
 		print("        //_.'	")
 		print("   .-""-/""-.	")
@@ -71,6 +72,7 @@ class projetASCIIART:
 		print("   '-.__.__.'	")
 		self.clear()
 	def ascii9(self):
+<<<<<<< HEAD
 		print("    (\"`-''-/\").___..--''\"`-._")
 		print("     `6_ 6  )   `-.  (     ).`-.__.`)")
 		print("     (_Y_.)'  ._   )  `._ `. ``-..-'")
@@ -78,6 +80,9 @@ class projetASCIIART:
 		print("  (il),-''  (li),'  ((!.-'")
 		print("Le lion est une creature amgnifique")
 		self.clear()
+=======
+		pass
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii10(self):
 		print("          .--.")
 		print("        ,--  --,")
@@ -93,11 +98,13 @@ class projetASCIIART:
 		print("My name William and I love dresses <3")
 		self.clear()
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		pass
 >>>>>>> 211e005b29f4b11426ee40d26d53cafb39b60ee7
+=======
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii11(self):
-		#haahah
 		pass
 	def ascii12(self):
 		print("Mon nom est Laurent")
@@ -110,58 +117,59 @@ class projetASCIIART:
 		print("Fin du projet de Laurent")
 		self.clear()
 	def ascii13(self):
-		#ahahah
 		pass
 	def ascii14(self):
-		#hahaha
 		pass
 	def ascii15(self):
-		#ahhahaha
 		pass
 	def ascii16(self):
-		#ahahaha
 		pass
 	def ascii17(self):
-		#hahaha
-		pass
+		print("Projet de Thomas")
+		print("Mon nom est Thomas, voici mon super beau Ascii")
+		print("            / \           ")
+		print("          /_____\         ")
+		print("        / \     / \       ")
+		print("      /_____\ /_____\     ")
+		print("                          ")
+		print("BY THE POWER OF THE TRIFORCE!")
+		self.clear()
 	def ascii18(self):
-		#hahaha
 		pass
 	def ascii19(self):
-		#ahhahah
 		pass
 	def ascii20(self):
-#haaha
 		pass
 	def ascii21(self):
-#ahaaha
 		pass
 	def ascii22(self):
-#aahah
 		pass
 	def ascii23(self):
-#aahaaha
 		pass
 	def ascii24(self):
-#hahaah
-		pass
+		print("Ronny")
+		print("______________________________________")
+		print("|                                    |")
+		print("|                                    |")
+		print("|           o            o           |")
+		print("|                                    |")
+		print("|                  #                 |")
+		print("|                                    |")
+		print("|           \\____________/           |")
+		print("|____________________________________|")
+		print("Bye!")
+		self.clear()
 	def ascii25(self):
-#ahaah
 		pass
 	def ascii26(self):
-#ahaha
 		pass
 	def ascii27(self):
-#hahaha
 		pass
 	def ascii28(self):
-#ahahah
 		pass
 	def ascii29(self):
-#ahahah
 		pass
 	def ascii30(self):
-#ahha
 		pass
 if __name__ == "__main__":
 	p = projetASCIIART()
