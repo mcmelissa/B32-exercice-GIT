@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 # -*-coding:Latin-1 -*
 #Votre méthode doit comprendre ceci :
-=======
 #Votre methode doit comprendre ceci :
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 #input("votre nom")
 #votre code
 #input("un message d'aurevoir")
@@ -18,21 +16,15 @@ class projetASCIIART:
 		os.system('clear')
 
 	def asciiprof(self):
-<<<<<<< HEAD
 		print ("Mon nom est Antoine et voici le travail de mes étudiants")
-=======
 		print ("Mon nom est Antoine et voici le travail de mes etudiants")
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		print ( "     ,.----------.     ")
 		print ( "    ((|          |     ")
 		print ( "   .--\\          /--. ")
 		print ( "  '._  '========'  _.' ")
 		print ( '     `""""""""""""`    ')
 		print ( "Le cafe est le meilleur ami de l'informaticien !")
-<<<<<<< HEAD
-=======
 		print("Fin du projet du prof")
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		self.clear()
 	def ascii1(self):
 		pass
@@ -84,7 +76,6 @@ class projetASCIIART:
 		print("   '-.__.__.'	")
 		self.clear()
 	def ascii9(self):
-<<<<<<< HEAD
 		print("    (\"`-''-/\").___..--''\"`-._")
 		print("     `6_ 6  )   `-.  (     ).`-.__.`)")
 		print("     (_Y_.)'  ._   )  `._ `. ``-..-'")
@@ -92,9 +83,7 @@ class projetASCIIART:
 		print("  (il),-''  (li),'  ((!.-'")
 		print("Le lion est une creature amgnifique")
 		self.clear()
-=======
 		pass
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii10(self):
 		print("          .--.")
 		print("        ,--  --,")
@@ -109,13 +98,7 @@ class projetASCIIART:
 		print("        |______| ")
 		print("My name William and I love dresses <3")
 		self.clear()
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 		pass
->>>>>>> 211e005b29f4b11426ee40d26d53cafb39b60ee7
-=======
->>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 	def ascii11(self):
 		pass
 	def ascii12(self):
@@ -162,9 +145,7 @@ class projetASCIIART:
 		print ("    \\  |''''.   ' --'")
 		print ("    / //    | ||")
 		print ("   /_,))    |_,))")
-
                 self.clear()
-
 		pass
 	def ascii17(self):
 		print("Projet de Thomas")
