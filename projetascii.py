@@ -66,9 +66,18 @@ class projetASCIIART:
 	def ascii22(self):
 		pass
 	def ascii23(self):
-		input("Matthias")		
-		print("\\o/")
-		input("Fin.")
+		print("Matthias")		
+		print("")
+		print("     ##          ##")
+		print("       ##      ##")
+		print("     ##############")
+		print("   ####  ######  ####")
+		print(" ######################")
+		print(" ##  ##############  ##")
+		print(" ##  ##          ##  ##")	
+		print("       ####  ####")
+		print("")
+		print("Fin.")
 		self.clear()
 	def ascii24(self):
 		pass
