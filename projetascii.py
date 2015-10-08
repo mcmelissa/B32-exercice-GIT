@@ -59,7 +59,11 @@ class projetASCIIART:
 	def ascii7(self):
 		pass
 	def ascii8(self):
+<<<<<<< HEAD
+		Print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
+=======
 		pass
+>>>>>>> 24386a4d3f1650351377d0e3fd1380dc49105e48
 		print("        \/.--,	")
 		print("        //_.'	")
 		print("   .-""-/""-.	")
@@ -116,8 +120,25 @@ class projetASCIIART:
 		print("8=====D~~~")
 		print("Fin du projet de Laurent")
 		self.clear()
-	def ascii13(self):
-		pass
+	def ascii13(self): 
+		print("Projet de Evan")
+		print("")
+		print("                     .---.")
+		print("                    .'  .-.'._")
+		print("                  _/   (  0 / ',")
+		print("               .-' \   (   /--./")
+		print("             .'.  ' |'.__.'--'")
+		print("            / '-/_, |'  |")
+		print("           / /_.   ;    ;")
+		print("          /_.' , '/    / ")
+		print("  ________/_`-'_-' _.-'_______")
+		print("  ______________///_///_______")
+		print("        |_/,/ .|``` ```")
+		print("        / \_/-/")
+		print("        |`| ; |")
+		print("        \/' \ /")
+		print("         |'.|`")
+		print("          \_/")
 	def ascii14(self):
 		pass
 	def ascii15(self):
@@ -171,6 +192,7 @@ class projetASCIIART:
 		pass
 	def ascii30(self):
 		pass
+
 if __name__ == "__main__":
 	p = projetASCIIART()
 	p.asciiprof()
