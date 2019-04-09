@@ -1,327 +1,110 @@
-#Votre methode doit comprendre ceci :
-#input("votre nom")
-#votre code
-#input("un message d'aurevoir")
-#self.clear() sert a vider lecran pour le prochain projet
 import os
+import sys
+import ascii1
+import ascii2
+import ascii3
+import ascii4
+import ascii5
+import ascii6
+import ascii7
+import ascii8
+import ascii9
+import ascii10
+import ascii11
+import ascii12
+import ascii13
+import ascii14
+import ascii15
+import ascii16
+import ascii17
+import ascii18
+import ascii19
+import ascii20
+import ascii21
+import ascii22
+import ascii23
+import ascii24
+import ascii25
+import ascii26
+import ascii27
+import ascii28
+import ascii29
+import ascii30
+import ascii31
+import ascii32
+
 class projetASCIIART:
-	def __init__(self):
-		var = "allo"
-	
+
 	def clear(self):
-		raw_input('NEXT')
-		os.system('clear')
+		os.system("pause")
+		os.system("cls")
 
-	def asciiprof(self):
-		print("Projet du prof")
-		print ("Mon nom est Antoine et voici le travail de mes etudiants")
-		print ( "     ,.----------.     ")
-		print ( "    ((|          |     ")
-		print ( "   .--\\          /--. ")
-		print ( "  '._  '========'  _.' ")
-		print ( '     `""""""""""""`    ')
-		print ( "Le cafe est le meilleur ami de l'informaticien")
-		print("Fin du projet du prof")
+	def start(self):
 		self.clear()
-	def ascii1(self):
-		pass
-	def ascii2(self):
-		print ("Mon nom est Francois... Voici un chat")
-		print ("     /\__/\           ")
-		print ("    /`    '\          ")
-		print ("  === 0  0 ===        ")
-		print ("    \  --  /          ")
-		print ("   /        \         ")
-		print ("  /          \        ")
-		print (" |            |       ")
-		print ("  \  ||  ||  /        ")
-		print ("   \_oo__oo_/#######o ")
+		ascii1.print_art()
 		self.clear()
-	def ascii3(self):
-		print("My Name is Sergio. Meat is Good")
-		print("Bacon ipsum dolor amet ham shankle pancetta strip steak shank brisket ")
-		print("bacon leberkas turducken. Porchetta hamburger bresaola tongue, pork loin ")
-		print("shankle leberkas ground round jowl prosciutto beef ribs brisket ham. ")
-		print("Kielbasa meatloaf kevin jowl leberkas. Jowl cupim chuck, chicken tenderloin ")
-		print("bacon shoulder swine meatball filet mignon ribeye pork belly sirloin. ")
-		print("")
-		print("")
+		ascii2.print_art()
 		self.clear()
-	def ascii4(self):
-		print ("Flavio")
-		print("Je sais pas quoi mettre HA HA HA")
-		print("............HIIMHIMHMMHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:.............")
-		print("...........MMMI:MII:MIHMHMMMMMHMMMMIMMMIMMMMMMMMMMMMMM.............")
-		print(".........:MMMI:M::HM::MIHHHM:IM:MHM:IMH:IMMMIIMMMHMMMH:............")
-		print("........:MMMHHM::MMI:HH:MM:I:M:MMMH:IMH:IMM::MH:MM:MM:M............")
-		print(".......MMMMHMM:MMIMHMII:MM:IIIM:MHMIMMM:MMIIH::MH:HM:M............")
-		print("...... :MIMMMMMMMMMHMMHMM:HHMHMMMMIMHMMMMHMHMIHIHM::MMI............")
-		print(".......M:MMMMMMMMMMMMHMMMMMMMMHMMMMMMMMMMHMMMHMMIMHMMMM:...........")
-		print(".......HHMMMMMMMMMMMMMMMMIMMMM.MMHMMMMHMMMMMMMMMMMIMHMMI...........")
-		print("........MMMIMMMMMMMMMMIHMIMIM:.M:HMM:MIHMMMMMMMMMMMMMMMI...........")
-		print("........MM.MMMMMMMMMMMH:MMMHM:.M.:MM.M.HMMMHMMMMMMMMMMMI...........")
-		print("........MM.MMMMMMMMMMH::M.M.M..M..MM:M.IIMH:MMMMMMMMMMMI...........")
-		print("........M:.MM:MMMMMMM:.I..:.I..H..IM:I.I.M.IMHMMMMMMMMMI...........")
-		print("........M..MMMHMMMMM.:HI:HHH......H....II..:MMMMMMMHMM:...........")
-		print("...........MM.MIMMMM.:H: .::I........ ...:IH:.MMMMMM:MMI...........")
-		print("...........:H..MMMIM.M.:...:I.........: ..::HHHMMMMIMMMH...........")
-		print("............H..IMM:I:..I:..:..........I:..:I:::MMMMMMMMM...........")
-		print("...............MMH::I...I:::..........III.I::MMMHMMMMMMM...........")
-		print("..............MMMHMII.. ..............:MI:I.HIIIHM:HMMMM...........")
-		print(".............:MMMMIM::...........:......:H..:II:MHIMMMMM...........")
-		print(".............MMMMMMMMM......................I.MMMHHMMMMM:..........")
-		print("............MMMMH:MMMMM........:.:.........:MMMMMMMMMMMMI..........")
-		print("...........MMMMMMHMMMMMMM.. .............:MMMMMMMMMMMMMMM..........")
-		print("........ .IMMMMMMMMMMMMMMMM............:MMMMMMMMMHMMMMMMM..........")
-		print("..........MMMMMMMMMMMMMMMMMI:.......:IHMMMMMMMMM::MMMMMMM..........")
-		print(".........MMMMMMMIMMMMMMMMMMH:::I:I:.::HMMMMMMMMMHMMMMMMMMI.........")
-		print("........HMMMMMMM:MMMMMMMMMMI:::::::..:HMMMMMMMMIMMMMMMMMMM.........")
-		print(".......IMMMMM..MI:MMMMMMMMM::::..:::::.MMMMMMMMMMMMMMMMMMM ........")
-		print("......:MMMM....:MMHMMMMMM:::::.....::.:.MMMMMMMHMMMMMMMMMM.........")
-		print("......MMI....:::IMMMMI:.:::::.....:I::::::HMMMHIM::::::MMMH........")
-		print(".....MM.....:::IMIMMM:.......:....::::::::IMMHMM:I:::I:::MM .......")
-		print("....MMM.....:I:.MIHMMM........:...:::::::HMMMMI:::::....::M:.......")
-		print("...:MM:........:MMMHMM..................IMMMMM::...........M.......")
-		print("...MMM........:::MMMMM......:..........:HMMMMM::...................")
-		print("..:MM:.......:::::MMMM........... .. .::MMM:HM::.............:.....")
-		print("..MMM........:::::MMMMM:I..HHIMHMHHHM :IMMHIMH::.............I.....")
+		ascii3.print_art()
 		self.clear()
-	def ascii5(self):
-		pass
-	def ascii6(self):
-		pass
-	def ascii7(self):
-		pass
-	def ascii8(self):
-		pass
-		print(" Mon nom est Nicola et j'ai fais ce dessin moi meme. ")
-		print("        \/.--,	")
-		print("        //_.'	")
-		print("   .-""-/""-.	")
-		print("  /       __ \	")
-		print(" /        \\\ \	")
-		print(" |         || |	")
-		print(" \            /	")
-		print(" \  \         /	")
-		print("  \  '-      /	")
-		print("   '-.__.__.'	")
+		ascii4.print_art()
 		self.clear()
-	def ascii9(self):
-		print("    (\"`-''-/\").___..--''\"`-._")
-		print("     `6_ 6  )   `-.  (     ).`-.__.`)")
-		print("     (_Y_.)'  ._   )  `._ `. ``-..-'")
-		print("   _..`--'_..-_/  /--'_.' ,'")
-		print("  (il),-''  (li),'  ((!.-'")
-		print("Le lion est une creature amgnifique")
+		ascii5.print_art()
 		self.clear()
-	def ascii10(self):
-		print("          .--.")
-		print("        ,--  --,")
-		print("       /|\____/|\ ")
-		print("      / \__  __/ \ ")
-		print("     './ \    / \.' ")
-		print("          )  ( ")
-		print("         /    \ ")
-		print("        ;      ; ")
-		print("        |      | ")
-		print("        |      | ")
-		print("        |______| ")
-		print("My name William and I love dresses <3")
+		ascii6.print_art()
 		self.clear()
-	def ascii11(self):
-		pass
-	def ascii12(self):
-		print("Mon nom est Laurent")
-		print("Ne faites pas p*rnhub.com sur lynx.")
-		print("Antoine va vous niaiser pour le reste")
-		print("de la session si vous le faites.")
-		print("Mais ne volez pas mon idee d'image ascii")
-		print("pour les thumbnails, svp")
-		print("8=====D~~~")
-		print("Fin du projet de Laurent")
+		ascii7.print_art()
 		self.clear()
-	def ascii13(self):
-		pass
-	def ascii14(self):
-		print ("Projet du skinny_jr")	
-		print ("Mon nom est Kepler Norelia et voici mon travail")
-		print ("------------------------------------")
-		print ("oooooooooooooooooooooooooooooooooooo")
-		print ("wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww")
-		print ("Je suis poche")
+		ascii8.print_art()
 		self.clear()
-	def ascii13(self): 
-		print("Projet de Evan")
-		print("")
-		print("                     .---.")
-		print("                    .'  .-.'._")
-		print("                  _/   (  0 / ',")
-		print("               .-' \   (   /--./")
-		print("             .'.  ' |'.__.'--'")
-		print("            / '-/_, |'  |")
-		print("           / /_.   ;    ;")
-		print("          /_.' , '/    / ")
-		print("  ________/_`-'_-' _.-'_______")
-		print("  ______________///_///_______")
-		print("        |_/,/ .|``` ```")
-		print("        / \_/-/")
-		print("        |`| ; |")
-		print("        \/' \ /")
-		print("         |'.|`")
-		print("          \_/")
-	def ascii14(self):
-		pass
-	def ascii15(self):
-		pass
-	def ascii16(self):
-		pass
-	def ascii17(self):
-		pass
-                print ("Mon nom est Mathieu et voici mon travail")
-                print ("  _")
-		print (" ( \\")		
-		print ("  ) )")
-		print (" ( (  .-''''-.  A.-.A")
-		print ("  \ \\/        \\/ , , \\")
-		print ("   \\  \\       =;  t  /=")
-		print ("    \\  |''''.   ' --'")
-		print ("    / //    | ||")
-		print ("   /_,))    |_,))")
-                self.clear()
-	def ascii17(self):
-		print("Projet de Thomas")
-		print("Mon nom est Thomas, voici mon super beau Ascii")
-		print("            / \           ")
-		print("          /_____\         ")
-		print("        / \     / \       ")
-		print("      /_____\ /_____\     ")
-		print("                          ")
-		print("BY THE POWER OF THE TRIFORCE!")
+		ascii9.print_art()
 		self.clear()
-	def ascii18(self):
-		pass
-	def ascii19(self):
-		pass
-	def ascii20(self):
-		pass
-	def ascii21(self):
-		pass
-	def ascii22(self):
-		pass
-	def ascii23(self):
-		print("Matthias")		
-		print("")
-		print("     ##          ##")
-		print("       ##      ##")
-		print("     ##############")
-		print("   ####  ######  ####")
-		print(" ######################")
-		print(" ##  ##############  ##")
-		print(" ##  ##          ##  ##")	
-		print("       ####  ####")
-		print("")
-		print("Fin.")
+		ascii10.print_art()
 		self.clear()
-	def ascii24(self):
-		pass
-	def ascii24(self):
-		pass
-		print("Ronny")
-		print("______________________________________")
-		print("|                                    |")
-		print("|                                    |")
-		print("|           o            o           |")
-		print("|                                    |")
-		print("|                  #                 |")
-		print("|                                    |")
-		print("|           \\____________/           |")
-		print("|____________________________________|")
-		print("Bye!")
+		ascii11.print_art()
 		self.clear()
-	def ascii25(self):
-		pass
-	def ascii26(self):
-
-		print ( "                   ......               ")
-		print ( "                 NOOZZ$778..            ")
-		print ( "               .OOOOZ7I++?IN..          ")
-		print ( "              .O88OO$I+===?I7.          ")
-		print ( "              N8888OZ7?+==+I7M          ")
-		print ( "             .O8888OOZ7I?+?7$O.         ")
-		print ( "              O88D88OOZZ$$ZZZO.         ")
-		print ( "              O88DDD88OOOOOOOZ.         ")
-		print ( "              .O88DDDDD888OOO.          ")
-		print ( "               .8O88DDD888O$,.          ")
-		print ( "                 .NZO88OON..            ")
-		print ( "                   .O                   ")
-		print ( "                .=M7IMM .               ")
-		print ( "            ..ZM.   M    MM             ")
-		print ( "           M7.    .., ..  .MM,.         ")
-		print ( "        :.?.  ..,,,,,,,,..,DMO.         ")
-		print ( "       .=O~+M,,,,,,,,,,,.   .M8O        ")
-		print ( "     .N7?O=,,,,,,,,,,,,,,.....MOM       ")
-		print ( "     M$7=MD,,,,,,,,,,,,,,,,,,,,DM       ")
-		print ( "    .NZ7?M8:,,,,,,,,MZOZ$7IIO.DMN       ")
-		print ( "    .$Z7IOD:,,+,,,,OOOOZ$I??I7,,,       ")
-		print ( "     NMM8DM:,,,,,.O888OOOZ$$$Z.,,       ")
-		print ( "      MNNM=~,,,,,,88888888OOOO,,,.      ")
-		print ( "        .++~:,,,,,:M88888888N.,,,.      ")
-		print ( "         M++~:,,,,,:~~~~~~:,,,,,,.      ")
-		print ( "         .+++=~,,,MM,,,,,,,,,,,,.       ")
-		print ( "           M++++=M=:M,,,,,,,,$=.        ")
-		print ( "            .D+?++~,:~~:,,,,M=:M        ")
-		print ( "          .M$ZN O=:,.:::,,,,=~..        ")
-		print ( "       . 7$8OZM8+=,,,,,,,,,,,,M         ")
-		print ( "        .M8D78NM+=,,,,,,,,,,,.          ")
-		print ( "          .,...=+~,,,,,,,,,,,,.         ")
-		print ( "               ?+~,,,,,,,,,,,,=         ")
-		print ( "               ?I:,.,,,,,,,,,,M,,.      ")
-		print ( "               M~,,..~,,,,,,,,,,,.      ")
-		print ( "            . .+~,,,..,,,,,,,,,,,.      ")
-		print ( "              .+=:,,,,.,,,,,,~:,,.....  ")
-		print ( "       .      .++=::::~~~:~=+?+=,~   .  ")
-		print ( "       .,~+I7$$8++++++=+++OO88OZZ$$7+~. ")
-		print ( "       ..,:=+++????++++++++++++++==~:.  ")
-		print ( "                   .................    ")
-		
-	def ascii27(self):
-		pass
-	def ascii28(self):
-		pass
-	def ascii29(self):
-		pass
-	def ascii30(self):
-		pass
+		ascii12.print_art()
+		self.clear()
+		ascii13.print_art()
+		self.clear()
+		ascii14.print_art()
+		self.clear()
+		ascii15.print_art()
+		self.clear()
+		ascii16.print_art()
+		self.clear()
+		ascii17.print_art()
+		self.clear()
+		ascii18.print_art()
+		self.clear()
+		ascii19.print_art()
+		self.clear()
+		ascii20.print_art()
+		self.clear()
+		ascii21.print_art()
+		self.clear()
+		ascii22.print_art()
+		self.clear()
+		ascii23.print_art()
+		self.clear()
+		ascii24.print_art()
+		self.clear()
+		ascii25.print_art()
+		self.clear()
+		ascii26.print_art()
+		self.clear()
+		ascii27.print_art()
+		self.clear()
+		ascii28.print_art()
+		self.clear()
+		ascii29.print_art()
+		self.clear()
+		ascii30.print_art()
+		self.clear()
+		ascii31.print_art()
+		self.clear()
+		ascii32 .print_art()
+		self.clear()
 if __name__ == "__main__":
 	p = projetASCIIART()
-	p.asciiprof()
-	p.ascii1()
-	p.ascii2()
-	p.ascii3()
-	p.ascii4()
-	p.ascii5()
-	p.ascii6()
-	p.ascii7()
-	p.ascii8()
-	p.ascii9()
-	p.ascii10()
-	p.ascii11()
-	p.ascii12()
-	p.ascii13()
-	p.ascii14()
-	p.ascii15()
-	p.ascii16()
-	p.ascii17()
-	p.ascii18()
-	p.ascii19()
-	p.ascii20()
-	p.ascii21()
-	p.ascii22()
-	p.ascii23()
-	p.ascii24()
-	p.ascii25()
-	p.ascii26()
-	p.ascii27()
-	p.ascii28()
-	p.ascii29()
-	p.ascii30()
+	p.start()
