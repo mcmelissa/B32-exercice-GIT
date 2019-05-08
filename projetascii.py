@@ -1,5 +1,6 @@
 import os
 import sys
+import prof
 import ascii1
 import ascii2
 import ascii3
@@ -36,10 +37,11 @@ import ascii32
 class projetASCIIART:
 
 	def clear(self):
-		os.system("pause")
-		os.system("cls")
-
+		raw_input("Press Enter to continue...")
+		os.system("clear")
 	def start(self):
+		self.clear()
+		prof.print_art()
 		self.clear()
 		ascii1.print_art()
 		self.clear()
